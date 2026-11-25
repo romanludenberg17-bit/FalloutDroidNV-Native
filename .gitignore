@@ -1,0 +1,15 @@
+.gradle/
+.gradle-cache/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.so
+*.o
+*.a
+*.log
